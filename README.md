@@ -29,3 +29,5 @@ akan dilakukan **sesi tie breaker** dengan satu kali lemparan tambahan untuk men
 
 Hasil Output Program ONOJ:
 https://drive.google.com/drive/folders/1o7M4t6qm73oFJyiX0Wq6MwZkPTJYAI1G?usp=sharing
+
+Link video youtube: https://youtu.be/ADWQe2R5eHE?si=syA5WR1qUVT9Jf8e
