@@ -25,3 +25,7 @@ akan dilakukan **sesi tie breaker** dengan satu kali lemparan tambahan untuk men
 - Penentuan pemenang berdasarkan selisih skor terdekat dengan target
 - Tie breaker otomatis jika ada pemain dengan skor sama
 - Tampilan tabel hasil akhir lengkap dengan peringkat
+
+
+Hasil Output Program ONOJ:
+https://drive.google.com/drive/folders/1o7M4t6qm73oFJyiX0Wq6MwZkPTJYAI1G?usp=sharing
